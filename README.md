@@ -16,6 +16,4 @@ CNN-based deep learning architecture for multi-class classification
 
 High model performance with 98% accuracy
 
-Tech Stack
-
-Python, TensorFlow, Keras, NumPy, OpenCV, Jupyter Notebook
+Tech Stack : Python, TensorFlow, Keras, NumPy, OpenCV, Jupyter Notebook
